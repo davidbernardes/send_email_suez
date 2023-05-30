@@ -1,0 +1,15 @@
+intervalo=1
+
+[email]
+assunto=""
+endereco=""
+senha=""
+smtp=""
+destinatarios=[""]
+
+
+[suez]
+ftp=""
+usuario=""
+senha=""
+nome_arquivo=""
